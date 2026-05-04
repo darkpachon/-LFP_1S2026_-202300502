@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "Windows",
+      "includePath": [
+        "${workspaceFolder}/src",
+        "C:/Qt/6.11.0/mingw_64/include",
+        "C:/Qt/6.11.0/mingw_64/include/QtCore",
+        "C:/Qt/6.11.0/mingw_64/include/QtGui",
+        "C:/Qt/6.11.0/mingw_64/include/QtWidgets"
+      ],
+      "defines": [
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "windowsSdkVersion": "10.0.26100.0",
+      "compilerPath": "C:/Users/pablo/Downloads/Instaladores/x86_64-15.2.0-release-posix-seh-msvcrt-rt_v13-rev0/mingw64/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}

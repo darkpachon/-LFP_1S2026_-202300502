@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar TaskScript",
+      "type": "shell",
+      "command": "cmake",
+      "args": [
+        "--build",
+        ".\\build-mingw"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Ejecutar TaskScript",
+      "type": "shell",
+      "command": ".\\build-mingw\\TaskScript.exe",
+      "problemMatcher": []
+    },
+    {
+      "label": "Compilar y Ejecutar TaskScript",
+      "type": "shell",
+      "command": "cmake --build .\\build-mingw; .\\build-mingw\\TaskScript.exe",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

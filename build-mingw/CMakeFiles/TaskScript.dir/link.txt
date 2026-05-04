@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TaskScript.dir/objects.a
+C:\Users\pablo\Downloads\Instaladores\x86_64-15.2.0-release-posix-seh-msvcrt-rt_v13-rev0\mingw64\bin\ar.exe qc CMakeFiles\TaskScript.dir/objects.a @CMakeFiles\TaskScript.dir\objects1.rsp
+C:\Users\pablo\Downloads\Instaladores\x86_64-15.2.0-release-posix-seh-msvcrt-rt_v13-rev0\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\TaskScript.dir/objects.a -Wl,--no-whole-archive -o TaskScript.exe -Wl,--out-implib,libTaskScript.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TaskScript.dir\linkLibs.rsp

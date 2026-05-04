@@ -1,0 +1,5 @@
+C:/Users/pablo/OneDrive/Desktop/Cosas/Programas/Proyecto 2/build-mingw/CMakeFiles/TaskScript.dir
+C:/Users/pablo/OneDrive/Desktop/Cosas/Programas/Proyecto 2/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/pablo/OneDrive/Desktop/Cosas/Programas/Proyecto 2/build-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/pablo/OneDrive/Desktop/Cosas/Programas/Proyecto 2/build-mingw/CMakeFiles/TaskScript_autogen_timestamp_deps.dir
+C:/Users/pablo/OneDrive/Desktop/Cosas/Programas/Proyecto 2/build-mingw/CMakeFiles/TaskScript_autogen.dir
